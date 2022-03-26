@@ -1,0 +1,23 @@
+{
+  "name": "lab4",
+  "version": "1.0.0",
+  "description": "backend developpment lab4",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "contineous deployment",
+    "contineous integration"
+  ],
+  "author": "Bin-Umar Saiid",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
